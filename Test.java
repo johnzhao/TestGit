@@ -1,6 +1,7 @@
 public class Test{
 
 	public static void main(String[] args){
-		Syetem.out.printlin("Hello World");
+		Syetem.out.println("Hello World");
+		System.out.println("!");
 	}
 }
